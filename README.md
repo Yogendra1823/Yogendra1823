@@ -33,9 +33,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Construction Safety AI](https://github.com/Yogendra1823/Construction-Safety-AI)** *(in progress)* | Enterprise agentic AI for construction-site surveillance — PPE verification, multi-factor risk scoring, incident tracking | `Python` `Agentic AI` |
-| **[LogiSense AI](https://github.com/Yogendra1823/logisense-ai)** | Real-time supply-chain disruption detection & rerouting, powered by Gemini 2.0 Flash — built for Google Solution Challenge 2026 | `Python` `Gemini` `Cloud Run` |
-| **[Smart Pharmacy Inventory System](https://github.com/Yogendra1823/Smart-Pharmacy-Inventory-Management-System)** | AI-powered pharmacy inventory platform — demand forecasting, real-time alerts, chatbot support | `React` `FastAPI` `MySQL` |
+| **[Construction Safety AI](https://github.com/Yogendra1823/Construction-Safety-AI)** *(in progress)* | Enterprise agentic AI for construction-site surveillance PPE verification, multi-factor risk scoring, incident tracking | `Python` `Agentic AI` |
+| **[LogiSense AI](https://github.com/Yogendra1823/logisense-ai)** | Real-time supply-chain disruption detection & rerouting, powered by Gemini 2.0 Flash built for Google Solution Challenge 2026 | `Python` `Gemini` `Cloud Run` |
+| **[Smart Pharmacy Inventory System](https://github.com/Yogendra1823/Smart-Pharmacy-Inventory-Management-System)** | AI-powered pharmacy inventory platform demand forecasting, real-time alerts, chatbot support | `React` `FastAPI` `MySQL` |
 | **[CustomerIQ](https://github.com/Yogendra1823/CustomerIQ)** | Customer intelligence platform — RFM/cohort analysis, ML segmentation, churn prediction | `Python` |
 | **[CVMMS](https://github.com/Yogendra1823/CVMMS)** | Citizen issue-reporting platform connecting residents with local authorities | `React` `TypeScript` `Supabase` |
 | **[Face Mask Detection](https://github.com/Yogendra1823/face-mask-detection)** | Real-time face mask detection, deployed on Cloud Run | `Python` `OpenCV` `Streamlit` |

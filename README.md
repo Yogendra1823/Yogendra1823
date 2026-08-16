@@ -167,7 +167,7 @@ AI-powered sales and revenue analytics platform that transforms uploaded busines
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### AI / Machine Learning
